@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vitor Gonçalves
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`**  **`Cursando Arquitetura e Urbanismo`**  
 
 Me chamo Vitor Vinicius, tenho 17 anos e sou de São Paulo. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas no SENAI. 
 
