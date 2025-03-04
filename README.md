@@ -4,20 +4,6 @@
 
 Me chamo Vitor Vinicius, tenho 17 anos e sou de São Paulo. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas no SENAI. Atualmente, estou cursando Arquitetura e Urbanismo na UniAnchieta.
 
-<p align="left">
-    <a href="https://github.com/Japiinhaa">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-        />
-    </a>
-    <a href="https://github.com/Japiinhaa">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-        />
-    </a>
-</p>
 
 ---
 
