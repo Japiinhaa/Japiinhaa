@@ -4,12 +4,12 @@
 
 Sou um estudante de **Segurança Cibernética** com base sólida em **Desenvolvimento de Sistemas**.
 
-📍 São Paulo, Brasil | 🎓 Estudante de Segurança Cibernética
+📍 São Paulo, Brasil 
 
 ---
 
 ## 🎓 Formação Acadêmica
-* **Graduação:** Segurança Cibernética (Em curso)
+* **Graduação:** Segurança Cibernética (MACKENZIE)
 * **Técnico:** Desenvolvimento de Sistemas (SESI/SENAI)
 
 ---
