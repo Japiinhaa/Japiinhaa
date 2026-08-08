@@ -46,9 +46,3 @@ Aqui estão as tecnologias que compõem meu stack técnico atual:
 
 ---
 
-## 📈 Estatísticas do GitHub
-*(Lembre-se de trocar "SEU-USUARIO" pelo seu ID)*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
