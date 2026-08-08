@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** 
 
-Sou um estudante de **Segurança Cibernética** com base sólida em **Desenvolvimento de Sistemas**.
+Me chamo Vitor Vinicius Gonçalves, tenho 19 anos, sou um estudante de **Segurança Cibernética** com base sólida em **Desenvolvimento de Sistemas**.
 
 📍 São Paulo, Brasil 
 
