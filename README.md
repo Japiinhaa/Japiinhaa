@@ -1,4 +1,6 @@
-# Olá, mundo! Eu sou Vitor Vinicius 🛡️
+# 👨🏻‍💻 Vitor Gonçalves
+
+**`Desenvolvedor FullStack`** 
 
 Sou um estudante de **Segurança Cibernética** com base sólida em **Desenvolvimento de Sistemas**. Acredito que a compreensão profunda da arquitetura de software e dos serviços em nuvem é essencial para construir ambientes digitais mais resilientes e protegidos.
 
