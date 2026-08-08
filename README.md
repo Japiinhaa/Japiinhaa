@@ -1,87 +1,52 @@
-# 👨🏻‍💻 Vitor Gonçalves
+# Olá, mundo! Eu sou Vitor Vinicius 🛡️
 
-**`Desenvolvedor FullStack`**  
+Sou um estudante de **Segurança Cibernética** com base sólida em **Desenvolvimento de Sistemas**. Acredito que a compreensão profunda da arquitetura de software e dos serviços em nuvem é essencial para construir ambientes digitais mais resilientes e protegidos.
 
-Me chamo Vitor Vinicius, tenho 19 anos e sou de São Paulo. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas no SENAI. 
-
-Concluí Curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900 com certificação da Microsoft [Ai-900.pdf](https://github.com/user-attachments/files/19076587/Ai-900.pdf) , Curso de Implantação e Análise de Dados em Nuvem - Microsoft DP-900 e Curso Plataforma IOT WEGnology - Monitoramento de Ativos Industriais. 
+📍 São Paulo, Brasil | 🎓 Estudante de Segurança Cibernética
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🎓 Formação Acadêmica
+* **Graduação:** Segurança Cibernética (Em curso)
+* **Técnico:** Desenvolvimento de Sistemas (SESI/SENAI)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## ☁️ Certificações e Capacitações
+Possuo um forte interesse em infraestrutura e IA, com as seguintes certificações e cursos complementares:
+
+* **Microsoft AI-900:** Implantação de Serviços de Inteligência Artificial em Nuvem ([Certificado](https://github.com/user-attachments/files/19076587/Ai-900.pdf))
+* **Microsoft DP-900:** Implantação e Análise de Dados em Nuvem
+* **WEGnology:** Plataforma IoT para Monitoramento de Ativos Industriais
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que compõem meu stack técnico atual:
+
+### Desenvolvimento & Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" title="HTML" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" title="CSS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30" height="30" title="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" title="Tailwind" />
+</p>
+
+### Infraestrutura, Dados & Controle de Versão
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" title="Git" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+*(Lembre-se de trocar "SEU-USUARIO" pelo seu ID)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
